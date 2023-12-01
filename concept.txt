@@ -5,3 +5,5 @@ symbol
 intension
 extension
 type
+
+타입은 개념과 동일하다. 따라서 타입이란 우리가 
